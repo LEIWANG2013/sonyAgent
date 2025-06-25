@@ -16,8 +16,8 @@
 <h1 align="center">
   <img height="320px" src="./assets/tenor.gif" alt="sony agent protocol is in progress..." title="sony agent protocol is in progress...">
 </h1>
-<H1 align="center"">Demo Addr:s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; x &nbsp; y &nbsp; z</H1>
-<H1 align="center">Demo Port:8 &nbsp; 0 &nbsp; 8 &nbsp; 8</H1>
+<H1 align="center"">s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; x &nbsp; y &nbsp; z</H1>
+<H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 8</H1>
 <H1 align="center">ENJOY!</H1>
 Maintained by **<a href="https://agi.tech" target="_blank">AGI, Inc.</a>**
 ## 📚 Docs
