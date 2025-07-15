@@ -19,6 +19,7 @@
 <H1 align="center"">s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m</H1>
 <H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 8</H1>
 <H1 align="center">ENJOY!</H1>
+<H1 align="center">ONE MORE SERVER COMING SOON!<br/>更多伺服器即將推出</H1>
 Maintained by **<a href="https://agi.tech" target="_blank">AGI, Inc.</a>**
 ## 📚 Docs
 
