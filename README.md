@@ -20,6 +20,7 @@
 <H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 8</H1>
 <H1 align="center">ENJOY!</H1>
 <H1 align="center">ONE MORE SERVER COMING SOON!<br/>更多伺服器即將推出</H1>
+<H1 align="center" style="color: red;">經查，SonyAgent香港伺服器俾不明單位狂打落地IP，現已將 /24 路由轉交 GSL 恒常洗流量，恢復要等。</H1>
 Maintained by **<a href="https://agi.tech" target="_blank">AGI, Inc.</a>**
 ## 📚 Docs
 
