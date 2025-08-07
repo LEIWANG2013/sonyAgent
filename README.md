@@ -22,7 +22,77 @@
 <H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 1</H1>
 <H1 align="center">ENJOY!</H1>
 <H1 align="center">ONE MORE SONYAGENT COMING SOON!</H1>
-<H1 align="center" style="color: red;">經查，SonyAgent香港主埠俾不明單位狂打落地IP，現已將 /24 路由轉交 GSL 恒常洗流量，🇭🇰主埠時有攻擊，🇰🇷泡菜埠新上线！华东南直连飙速㊙️</H1>
+<H3 align="center" style="color: red;">經查，SonyAgent香港主埠俾不明單位狂打落地IP，現已將 /24 路由轉交 GSL 恒常洗流量，🇭🇰主埠時有攻擊，🇰🇷泡菜埠新上线！华东南直连飙速㊙️</H3><br>
+<img src="./assets/sonyagent.png" width="100%" alt="SONYAGENT">
+
+## ☕「捐助SONYAGENT」即可獲得 🎁專屬域名 + 📜鸣谢單！
+
+<div align="left">
+  <h3>伺服器維護成本好高，如果SonyAgent幫到你，請捐助我哋長遠維持項目運作！</h3>
+  <p>If this project helps you, please consider supporting us!</p>
+  <p><em>點擊下方選項，睇吓對應嘅贊助Alipay QR code</em></p>
+
+  <details>
+    <summary><strong>🧋 請我喝奶茶 | Buy me a milk tea</strong></summary>
+    <br>
+    <div align="left">
+      <img src="./assets/coffeeme1.jpg" width="200" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
+    </div>
+  </details>
+
+  <details>
+    <summary><strong>🥤 請我喝Luckin | Buy me a Luckin</strong></summary>
+    <br>
+    <div align="left">
+      <img src="./assets/coffeeme2.jpg" width="200" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
+    </div>
+  </details>
+
+  <details>
+    <summary><strong>☕ 請我喝Starbucks | Buy me a Starbucks</strong></summary>
+    <br>
+    <div align="left">
+      <img src="./assets/coffeeme3.jpg" width="200" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
+    </div>
+  </details>
+  
+  <details>
+    <summary><strong>💝 隨心支持 | Free donation</strong></summary>
+    <br>
+    <div align="left">
+      <img src="./assets/coffeeme5.jpg" width="200" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
+    </div>
+  </details>
+  
+  <details>
+    <summary><strong>🚀 大力支持本项目 | Full support</strong></summary>
+    <br>
+    <div align="left">
+      <img src="./assets/coffeeme4.jpg" width="200" alt="全力支持本项目二维码" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <p><em>多謝你嘅大力支持！請留低你嘅郵箱email，我哋會赠送你專屬域名：<br>
+   🎁好似：x.sonyagent.com / vip.sonyagent.com / lol.sonyagent.com<br>
+   🎁域名前綴任你選擇（當然要冇人搶注先啦⚠️捐助時請備注好你的郵箱）<br>
+   🎁專屬域名端口將恆久固定（除非特殊情況會改）</p>
+    </div>
+  </details>
+  <br>
+  <p>
+    🔥你嘅支持無分大小，齊心㩒实 SonyAgent 行得更長遠！🔥<br>
+    🔥Your support is the driving force for our continuous development!🔥
+  </p>
+  <img src="./assets/sonyagent0.png" width="200" alt="SONYAGENT">
+</div>
+
+## 📜 鸣谢单 「神力貢獻榜」
+💖
+💖
+💖
+
+
 Maintained by **<a href="https://agi.tech" target="_blank">AGI, Inc.</a>**
 ## 📚 Docs
 
