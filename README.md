@@ -36,7 +36,7 @@
     <summary><strong>🧋 請我喝奶茶 | Buy me a milk tea</strong></summary>
     <br>
     <div align="left">
-      <img src="./assets/coffeeme1.jpg" width="200" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <img src="./assets/coffeeme1.jpg" width="180" alt="贊助 QR code" style="border-radius:33px; border: 2px solid #e1e4e8;">
       <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
     </div>
   </details>
@@ -45,7 +45,7 @@
     <summary><strong>🥤 請我喝Luckin | Buy me a Luckin</strong></summary>
     <br>
     <div align="left">
-      <img src="./assets/coffeeme2.jpg" width="200" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <img src="./assets/coffeeme2.jpg" width="180" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
       <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
     </div>
   </details>
@@ -54,7 +54,7 @@
     <summary><strong>☕ 請我喝Starbucks | Buy me a Starbucks</strong></summary>
     <br>
     <div align="left">
-      <img src="./assets/coffeeme3.jpg" width="200" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <img src="./assets/coffeeme3.jpg" width="180" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
       <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
     </div>
   </details>
@@ -63,7 +63,7 @@
     <summary><strong>💝 隨心支持 | Free donation</strong></summary>
     <br>
     <div align="left">
-      <img src="./assets/coffeeme4.jpg" width="200" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <img src="./assets/coffeeme4.jpg" width="180" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
       <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
     </div>
   </details>
@@ -72,10 +72,10 @@
     <summary><strong>🚀 大力支持本项目 | Full support</strong></summary>
     <br>
     <div align="left">
-      <img src="./assets/coffeeme5.jpg" width="200" alt="全力支持本项目二维码" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <img src="./assets/coffeeme5.jpg" width="180" alt="贊助 QR code" style="border-radius:33px; border: 2px solid;">
       <p><em>多謝你嘅大力支持！請留低你嘅郵箱email，我哋會赠送你專屬域名：<br>
    🎁好似：x.sonyagent.com / vip.sonyagent.com / lol.sonyagent.com<br>
-   🎁域名前綴任你選擇（當然要冇人搶注先啦⚠️捐助時請備注好你的郵箱）<br>
+   🎁域名前綴任你選擇（當然要冇人搶注先啦⚡捐助時請備注好你的郵箱）<br>
    🎁專屬域名端口將恆久固定（除非特殊情況會改）</p>
     </div>
   </details>
