@@ -63,7 +63,7 @@
     <summary><strong>💝 隨心支持 | Free donation</strong></summary>
     <br>
     <div align="left">
-      <img src="./assets/coffeeme5.jpg" width="200" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <img src="./assets/coffeeme4.jpg" width="200" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
       <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
     </div>
   </details>
@@ -72,7 +72,7 @@
     <summary><strong>🚀 大力支持本项目 | Full support</strong></summary>
     <br>
     <div align="left">
-      <img src="./assets/coffeeme4.jpg" width="200" alt="全力支持本项目二维码" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      <img src="./assets/coffeeme5.jpg" width="200" alt="全力支持本项目二维码" style="border-radius: 8px; border: 2px solid #e1e4e8;">
       <p><em>多謝你嘅大力支持！請留低你嘅郵箱email，我哋會赠送你專屬域名：<br>
    🎁好似：x.sonyagent.com / vip.sonyagent.com / lol.sonyagent.com<br>
    🎁域名前綴任你選擇（當然要冇人搶注先啦⚠️捐助時請備注好你的郵箱）<br>
