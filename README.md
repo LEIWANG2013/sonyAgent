@@ -25,7 +25,7 @@
 <H3 align="center" style="color: red;">經查，SonyAgent香港主埠俾不明單位狂打落地IP，現已將 /24 路由轉交 GSL 恒常洗流量，🇭🇰主埠時有攻擊，🇰🇷泡菜埠新上线！华东南直连飙速㊙️</H3><br>
 <img src="./assets/sonyagent.png" width="100%" alt="SONYAGENT">
 
-## ☕「捐助SONYAGENT」即可獲得 🎁專屬域名 + 📜鸣谢單！
+## ☕「捐助SONYAGENT」即可獲得 🎁專屬域名（speed+++） + 📜鸣谢單！
 
 <div align="left">
   <h3>伺服器維護成本好高，如果SonyAgent幫到你，請捐助我哋長遠維持項目運作！</h3>
@@ -76,7 +76,9 @@
       <p><em>多謝你嘅大力支持！請留低你嘅郵箱email，我哋會赠送你專屬域名：<br>
    🎁好似：x.sonyagent.com / vip.sonyagent.com / lol.sonyagent.com<br>
    🎁域名前綴任你選擇（當然要冇人搶注先啦⚡捐助時請備注好你的郵箱）<br>
-   🎁專屬域名端口將恆久固定（除非特殊情況會改）</p>
+   🎁專屬域名端口將恆久固定（除非特殊情況會改）
+   🚀融合内地技術達人方案「試跑中」⚡提升專屬Server速度「近期無縫過渡」<br>
+      </p>
     </div>
   </details>
   <br>
