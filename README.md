@@ -37,7 +37,7 @@
     <br>
     <div align="left">
       <img src="./assets/coffeeme1.jpg" width="180" alt="贊助 QR code" style="border-radius:33px; border: 2px solid #e1e4e8;">
-      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p><hr>
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！<br>支持無限期累計，每滿96都會附送出一個專屬域名，備注好就行！</em></p><hr>
     </div>
   </details>
 
@@ -46,7 +46,7 @@
     <br>
     <div align="left">
       <img src="./assets/coffeeme2.jpg" width="180" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
-      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p><hr>
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！<br>支持無限期累計，每滿96都會附送出一個專屬域名，備注好就行！</em></p><hr>
     </div>
   </details>
 
@@ -55,7 +55,7 @@
     <br>
     <div align="left">
       <img src="./assets/coffeeme3.jpg" width="180" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
-      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p><hr>
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！<br>支持無限期累計，每滿96都會附送出一個專屬域名，備注好就行！</em></p><hr>
     </div>
   </details>
   
@@ -64,7 +64,7 @@
     <br>
     <div align="left">
       <img src="./assets/coffeeme4.jpg" width="180" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
-      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p><hr>
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！<br>支持無限期累計，每滿96都會附送出一個專屬域名，備注好就行！</em></p><hr>
     </div>
   </details>
   
@@ -75,7 +75,7 @@
       <img src="./assets/coffeeme5.jpg" width="180" alt="贊助 QR code" style="border-radius:33px; border: 2px solid;">
       <p><em>多謝你嘅大力支持！請留低你嘅郵箱email，我哋會赠送你專屬域名：<br>
    🎁好似：x.sonyagent.com / vip.sonyagent.com / lol.sonyagent.com<br>
-   🎁域名前綴任你選擇（當然要冇人搶注先啦⚡捐助時請備注好你的郵箱）<br>
+   🎁域名前綴任你選擇（當然要冇人搶注先啦⚡<span style="color:red; font-weight:bold">捐助時請備注好你的郵箱</span>）<br>
    🎁專屬域名端口將恆久固定（除非特殊情況會改）<br>
    🚀融合内地技術達人方案「試跑中」⚡提升專屬Server速度「近期無縫過渡」<hr>
       </p>
