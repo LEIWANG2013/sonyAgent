@@ -25,7 +25,7 @@
 <H3 align="center" style="color: red;">經查，SonyAgent香港主埠俾不明單位狂打落地IP，現已將 /24 路由轉交 GSL 恒常洗流量，🇭🇰主埠時有攻擊，🇰🇷泡菜埠新上线！华东南直连飙速㊙️</H3><br>
 <img src="./assets/sonyagent.png" width="100%" alt="SONYAGENT">
 
-## ☕「捐助SONYAGENT」即可獲得 🎁專屬域名（speed+++） + 📜鸣谢單！
+## ☕「大力捐助SONYAGENT」即可獲得 🎁專屬域名(speed++) + 📜鸣谢單！
 
 <div align="left">
   <h3>伺服器維護成本好高，如果SonyAgent幫到你，請捐助我哋長遠維持項目運作！</h3>
@@ -37,7 +37,7 @@
     <br>
     <div align="left">
       <img src="./assets/coffeeme1.jpg" width="180" alt="贊助 QR code" style="border-radius:33px; border: 2px solid #e1e4e8;">
-      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p><hr>
     </div>
   </details>
 
@@ -46,7 +46,7 @@
     <br>
     <div align="left">
       <img src="./assets/coffeeme2.jpg" width="180" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
-      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p><hr>
     </div>
   </details>
 
@@ -55,7 +55,7 @@
     <br>
     <div align="left">
       <img src="./assets/coffeeme3.jpg" width="180" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
-      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p><hr>
     </div>
   </details>
   
@@ -64,7 +64,7 @@
     <br>
     <div align="left">
       <img src="./assets/coffeeme4.jpg" width="180" alt="贊助 QR code" style="border-radius: 8px; border: 2px solid #e1e4e8;">
-      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p>
+      <p><em>多謝你嘅支持！請備註你想公開嘅名，我哋會放喺鳴謝單！</em></p><hr>
     </div>
   </details>
   
@@ -77,11 +77,11 @@
    🎁好似：x.sonyagent.com / vip.sonyagent.com / lol.sonyagent.com<br>
    🎁域名前綴任你選擇（當然要冇人搶注先啦⚡捐助時請備注好你的郵箱）<br>
    🎁專屬域名端口將恆久固定（除非特殊情況會改）<br>
-   🚀融合内地技術達人方案「試跑中」⚡提升專屬Server速度「近期無縫過渡」<br>
+   🚀融合内地技術達人方案「試跑中」⚡提升專屬Server速度「近期無縫過渡」<hr>
       </p>
     </div>
   </details>
-  <br>
+
   <p>
     🔥你嘅支持無分大小，齊心㩒实 SonyAgent 行得更長遠！🔥<br>
     🔥Your support is the driving force for our continuous development!🔥
@@ -92,7 +92,7 @@
 ## 📜 鸣谢单 「神力貢獻榜」
 | 💖 豪<br>✨✨✨✨✨  | 💖  睦夜楓子元<br>✨✨✨✨✨ | 💖 jiuxiang<br>✨✨ | 💖 夠硬<br>✨✨✨✨✨ | 💖 翔<br>✨✨✨✨✨  | 💖 佚名-m<br>✨✨|
 |-----------------|----------------|-------------------|----------------|-------------------|-------------------|
-| 💖 柯<br>✨✨✨✨✨ | 💖  佚名-t<br>✨✨ | 💖 | 💖 | 💖 | 💖 |
+| 💖 柯<br>✨✨✨✨✨ | 💖  佚名-t<br>✨✨ | 💖良<br>✨✨✨✨✨ | 💖Cappuccino<br>✨✨✨✨✨ | 💖 | 💖 |
 | 💖 | 💖 | 💖 | 💖 | 💖 | 💖 |
 | 💖 | 💖 | 💖 | 💖 | 💖 | 💖 |
 | 💖 | 💖 | 💖 | 💖 | 💖 | 💖 |
