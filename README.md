@@ -17,9 +17,9 @@
   <img height="320px" src="./assets/tenor.gif" alt="sony agent protocol is in progress..." title="sony agent protocol is in progress...">
 </h1>
 <H1 align="center""><img width="20" src="https://img.icons8.com/?size=100&id=77707&format=png&color=000000" /> &nbsp; s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m &nbsp; <img width="20" src="https://img.icons8.com/?size=100&id=77707&format=png&color=000000" /></H1>
-<H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 9</H1>
+<H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 7</H1>
 <H1 align="center""><img width="20" src="https://img.icons8.com/?size=100&id=33288&format=png&color=000000" /> &nbsp; k &nbsp; r &nbsp; . &nbsp; s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m &nbsp; <img width="20" src="https://img.icons8.com/?size=100&id=33288&format=png&color=000000" /></H1>
-<H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 1</H1>
+<H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 3</H1>
 <H1 align="center">ENJOY!</H1>
 <H1 align="center">ONE MORE SONYAGENT COMING SOON!</H1>
 <H3 align="center" style="color: red;">經查，SonyAgent香港主埠俾不明單位狂打落地IP，現已將 /24 路由轉交 GSL 恒常洗流量，🇭🇰主埠時有攻擊，🇰🇷泡菜埠新上线！华东南直连飙速㊙️</H3><br>
@@ -90,15 +90,24 @@
 </div>
 
 ## 📜 鸣谢单 「神力貢獻榜」
-| 💖 豪<br>✨✨✨✨✨  | 💖  睦夜楓子元<br>✨✨✨✨✨ | 💖 jiuxiang<br>✨✨ | 💖 夠硬<br>✨✨✨✨✨ | 💖 翔<br>✨✨✨✨✨  | 💖 佚名-m<br>✨✨|
+| 💖 豪<br>✨✨✨✨✨  | 💖  睦夜楓子元<br>✨✨✨✨✨ | 💖 jiuxiang<br>✨✨ | 💖 夠硬<br>✨✨✨✨✨✨ | 💖 翔<br>✨✨✨✨✨  | 💖 佚名-m<br>✨✨|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 💖 **柯**<br>✨✨✨✨✨ | 💖  **佚名-t**<br>✨✨ | 💖**良**<br>✨✨✨✨✨ | 💖**Cappuccino**<br>✨✨✨✨✨ | 💖**vita**<br>✨✨✨✨✨ | 💖**润**<br>✨✨✨✨✨ |
 | 💖**宁**<br>✨✨✨✨✨ | 💖**友**<br>✨✨✨✨✨ | 💖**政**<br>✨✨✨✨✨ | 💖**AlexXchaN**<br>✨✨✨✨✨ | 💖 **溜溜**<br>✨✨✨✨ | 💖**火焰肉丸**<br>✨✨✨✨✨ |
 | 💖**年**<br>✨✨✨✨✨ | 💖**Hoyin**<br>✨✨✨✨✨ | 💖**辉**<br>✨✨✨✨✨ | 💖**keyaki欅**<br>✨✨✨✨✨ | 💖**佚名-k**<br>✨✨ | 💖**豆子先生**<br>✨✨✨✨✨ |
-| 💖**Jio芒果**<br>✨✨✨✨✨ | 💖**昕**<br>✨✨✨✨✨ | 💖**超**<br>✨✨✨✨✨ | 💖**洋**<br>✨✨✨✨✨  | 💖 | 💖 |
-| 💖 | 💖 | 💖 | 💖 | 💖 | 💖 |
-| 💖 | 💖 | 💖 | 💖 | 💖 | 💖 |
-| 💖 | 💖 | 💖 | 💖 | 💖 | 💖 |
+| 💖**Jio芒果**<br>✨✨✨✨✨ | 💖**昕**<br>✨✨✨✨✨ | 💖**超**<br>✨✨✨✨✨ | 💖**洋**<br>✨✨✨✨✨  | 💖**AlfaRivieor**<br>✨✨✨✨✨ | 💖**MarkZ**<br>✨✨✨✨✨ |
+| 💖**俊**<br>✨✨✨✨✨ | 💖**直**<br>✨✨✨✨✨ | 💖**yang**<br>✨✨✨✨✨ | 💖**浩**<br>✨✨✨✨✨ | 💖**顺**<br>✨✨✨✨✨ | 💖**凉意**<br>✨✨✨✨✨ |
+| 💖**Liang丶**<br>✨✨✨✨✨ | 💖**Dr.**<br>✨✨✨✨✨ | 💖**一十.**<br>✨✨✨✨✨ | 💖**想**<br>✨✨✨✨✨ | 💖**小熊维尼鸣**<br>✨✨✨✨✨ | 💖**明**<br>✨✨✨✨✨ |
+| 💖**毅**<br>✨✨✨✨✨ | 💖**kirito**<br>✨✨✨✨✨ | 💖**静**<br>✨✨✨✨✨ | 💖**炼**<br>✨✨✨✨✨ | 💖**特派员**<br>✨✨✨✨✨ | 💖**84**<br>✨✨✨✨✨ |
+| 💖**吕蒙**<br>✨✨✨✨✨ | 💖**驴**<br>✨✨✨✨✨ | 💖**宇**<br>✨✨✨✨✨ | 💖**芃**<br>✨✨✨✨✨ | 💖**鱼**<br>✨✨✨✨✨ | 💖**佚名-m**<br>✨✨ |
+| 💖**玩主機的大師兄**<br>✨✨✨✨✨ | 💖**轩**<br>✨✨✨✨✨ | 💖**树**<br>✨✨✨✨✨ | 💖**佚名-j**<br>✨✨ | 💖**祈**<br>✨✨✨✨✨ | 💖**涛**<br>✨✨✨✨✨ |
+| 💖**理**<br>✨✨✨✨✨ | 💖**杰**<br>✨✨✨✨✨ | 💖**鹏**<br>✨✨✨✨✨ | 💖**铖**<br>✨✨✨✨✨ | 💖**宇**<br>✨✨✨✨✨ | 💖**简言**<br>✨✨✨✨✨ |
+| 💖**勤**<br>✨✨✨✨✨ | 💖**鸣**<br>✨✨✨✨✨ | 💖**雫**<br>✨✨✨✨✨ | 💖**驰**<br>✨✨✨✨✨ | 💖**xxx193217**<br>✨✨✨✨✨ | 💖**昊**<br>✨✨✨✨✨ |
+| 💖**旭**<br>✨✨✨✨✨ | 💖**昊**<br>✨✨✨✨✨ | 💖**佚名-x**<br>✨✨ | 💖**神父老爷**<br>✨✨✨✨✨ | 💖**平**<br>✨✨✨✨✨ | 💖**恒**<br>✨✨✨✨✨ |
+| 💖**kirito**<br>✨✨✨✨✨ | 💖**儒**<br>✨✨✨✨✨ | 💖**晶**<br>✨✨✨✨✨ | 💖**坚**<br>✨✨✨✨✨ | 💖**全**<br>✨✨✨✨✨ | 💖**文**<br>✨✨✨✨✨ |
+| 💖**鸣**<br>✨✨✨✨✨ | 💖**淋**<br>✨✨✨✨✨✨ | 💖**Makoto**<br>✨✨✨✨✨ | 💖**帆**<br>✨✨✨✨✨ | 💖**波**<br>✨✨✨✨✨ | 💖**阳**<br>✨✨✨✨✨ |
+| 💖**杰**<br>✨✨✨✨✨ | 💖**皮卡不是丘**<br>✨✨✨✨✨ | 💖**毅**<br>✨✨✨✨✨ | 💖**栋**<br>✨✨✨✨✨✨ | 💖**月**<br>✨✨✨✨✨ | 💖**礼奈的柴刀**<br>✨✨✨✨✨ |
+
 
 <p align="left">
 👉 齊心撐場，排名不分先後 👈
