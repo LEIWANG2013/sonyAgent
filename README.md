@@ -24,7 +24,7 @@
 <H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 3</H1>
 <H1 align="center">ENJOY!</H1>
 <H1 align="center">ONE MORE SONYAGENT COMING SOON!</H1>
-<H3 align="center" style="color: red;">經查，SonyAgent香港主埠俾不明單位狂打落地IP，現已將 /24 路由轉交 GSL 恒常洗流量，🇭🇰主埠時有攻擊，🇰🇷泡菜埠新上线！华东南直连飙速㊙️</H3><br>
+<H3 align="center" style="color: red;">經查，SonyAgent香港主埠俾不明單位狂打落地IP，現已將 /24 路由轉交 GSL 恒常洗流量，🇭🇰主埠時有攻擊，🇰🇷同🇯🇵埠新上线！全線直连飙速㊙️灣灣埠即將發佈</H3><br>
 <img src="./assets/sonyagent.png" width="100%" alt="SONYAGENT">
 
 ## ☕「大力捐助SONYAGENT」即可獲得 🎁專屬域名(speed++) + 📜鸣谢單！
