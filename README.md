@@ -16,9 +16,11 @@
 <h1 align="center">
   <img height="320px" src="./assets/tenor.gif" alt="sony agent protocol is in progress..." title="sony agent protocol is in progress...">
 </h1>
-<H1 align="center""><img width="20" src="https://img.icons8.com/?size=100&id=77707&format=png&color=000000" /> &nbsp; s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m &nbsp; <img width="20" src="https://img.icons8.com/?size=100&id=77707&format=png&color=000000" /></H1>
+<H1 align="center""><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /> s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m <img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /></H1>
 <H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 7</H1>
-<H1 align="center""><img width="20" src="https://img.icons8.com/?size=100&id=33288&format=png&color=000000" /> &nbsp; k &nbsp; r &nbsp; . &nbsp; s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m &nbsp; <img width="20" src="https://img.icons8.com/?size=100&id=33288&format=png&color=000000" /></H1>
+<H1 align="center""><img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /> j &nbsp; p &nbsp; . &nbsp; s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m <img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /></H1>
+<H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 5</H1>
+<H1 align="center""><img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /> k &nbsp; r &nbsp; . &nbsp; s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m <img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /></H1>
 <H1 align="center">8 &nbsp; 0 &nbsp; 8 &nbsp; 3</H1>
 <H1 align="center">ENJOY!</H1>
 <H1 align="center">ONE MORE SONYAGENT COMING SOON!</H1>
@@ -113,7 +115,7 @@
 | 💖**硕**<br>✨✨✨✨✨ | 💖**龙**<br>✨✨✨✨✨ | 💖**拉stone一下啦**<br>✨✨✨✨✨ | 💖**韬**<br>✨✨✨✨✨✨ | 💖**楠**<br>✨✨✨✨✨ | 💖**佳**<br>✨✨✨✨✨ |
 | 💖**磊**<br>✨✨✨✨✨ | 💖**晓**<br>✨✨✨✨✨ | 💖**林**<br>✨✨✨✨✨ | 💖**凯**<br>✨✨✨✨✨✨ | 💖**胤**<br>✨✨✨✨✨ | 💖**海**<br>✨✨✨✨✨ |
 | 💖**贝**<br>✨✨✨✨✨ | 💖**成**<br>✨✨✨✨✨ | 💖<a href="https://github.com/oubeichen" target="_blank">**oubeichen**</a><br>✨✨✨✨✨ | 💖**夏千寻**<br>✨✨✨✨✨✨ | 💖**铭**<br>✨✨✨✨✨ | 💖**乔巴的风筝**<br>✨✨✨✨✨ |
-| 💖**殇**<br>✨✨✨✨✨ | 💖**凌**<br>✨✨✨✨✨ | 💖**Martin_翀**<br>✨✨✨✨✨ | 💖****<br> | 💖****<br> | 💖****<br> |
+| 💖**殇**<br>✨✨✨✨✨ | 💖**凌**<br>✨✨✨✨✨ | 💖**Martin_翀**<br>✨✨✨✨✨ | 💖**珂**<br> | 💖**chenhaoak47**<br> | 💖****<br> |
 
 <p align="left">
 👉 齊心撐場，排名不分先後 👈
