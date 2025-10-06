@@ -27,7 +27,7 @@
 <H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 1 &nbsp; 3 <img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /></H1>
 <H1 align="center">ENJOY!</H1>
 <H1 align="center">ONE MORE SONYAGENT COMING SOON!</H1>
-<H3 align="center" style="color: red;">爲保證解析速度現已停止追加sonyagent.com獨享域名<br><br>啓用全新獨享域名PSP4.ME㊙️『PSP for You』</H3><br>
+<H3 align="center" style="color: red;">爲保證解析速度現已停止追加sonyagent.com專屬域名<br><br>啓用全新專屬域名PSP4.ME㊙️『PSP for You』</H3><br>
 <img src="./assets/sonyagent.png" width="100%" alt="SONYAGENT">
 
 ## ☕「大力捐助SONYAGENT」即可獲得 🎁專屬域名(speed++) + 📜鸣谢單！
