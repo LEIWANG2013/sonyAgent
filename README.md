@@ -27,7 +27,7 @@
 <H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 1 &nbsp; 3 <img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /></H1>
 <H1 align="center">ENJOY!</H1>
 <H1 align="center">ONE MORE SONYAGENT COMING SOON!</H1>
-<H3 align="center" style="color: red;">經查，SonyAgent香港主埠俾不明單位狂打落地IP，現已將 /24 路由轉交 GSL 恒常洗流量，🇭🇰主埠時有攻擊，🇰🇷同🇯🇵埠新上线！全線直连飙速㊙️灣灣埠即將發佈</H3><br>
+<H3 align="center" style="color: red;">爲保證解析速度現已停止追加sonyagent.com獨享域名㊙️啓用全新獨享域名PSP4.ME『PSP for You』</H3><br>
 <img src="./assets/sonyagent.png" width="100%" alt="SONYAGENT">
 
 ## ☕「大力捐助SONYAGENT」即可獲得 🎁專屬域名(speed++) + 📜鸣谢單！
@@ -79,7 +79,7 @@
     <div align="left">
       <img src="./assets/coffeeme5.jpg" width="180" alt="贊助 QR code" style="border-radius:33px; border: 2px solid;">
       <p><em>多謝你嘅大力支持！請留低你嘅郵箱email，我哋會赠送你專屬域名：<br>
-   🎁好似：x.sonyagent.com / vip.sonyagent.com / lol.sonyagent.com<br>
+   🎁好似：x.psp4.me / vip.psp4.me / lol.psp4.me<br>
    🎁域名前綴任你選擇（當然要冇人搶注先啦⚡<span style="color:red; font-weight:bold">捐助時請備注好你的郵箱</span>）<br>
    🎁專屬域名端口將恆久固定（除非特殊情況會改）<br>
    🚀融合内地技術達人方案⚡提升專屬Server速度「已融合完成」<hr>
