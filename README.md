@@ -15,7 +15,7 @@
 </p>
 <h1 align="center">
   <img height="320px" src="./assets/tenor.gif" alt="sony agent protocol is in progress..." title="sony agent protocol is in progress...">
-  免費伺服器升級中...專屬域名不影響
+  <br>免費伺服器升級中...專屬域名不影響
 </h1>
 <H1 align="center""><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /> s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m <img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /></H1>
 <H1 align="center"><del>8 &nbsp; 0 &nbsp; 8 &nbsp; 7</del></H1>
