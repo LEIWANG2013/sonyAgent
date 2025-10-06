@@ -14,15 +14,17 @@
   
 </p>
 <h1 align="center">
-  <img height="320px" src="./assets/tenor.gif" alt="sony agent protocol is in progress..." title="sony agent protocol is in progress...">
-  <br>免費伺服器升級中...專屬域名不影響
+  <img height="540px" src="./assets/sonyAgentMap.png" alt="sony agent protocol is in progress..." title="sony agent protocol is in progress...">
+  <br>⬇️免費伺服器完成統一⬇️
 </h1>
-<H1 align="center""><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /> s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m <img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /></H1>
-<H1 align="center"><del>8 &nbsp; 0 &nbsp; 8 &nbsp; 7</del></H1>
-<H1 align="center""><img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /> j &nbsp; p &nbsp; . &nbsp; s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m <img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /></H1>
-<H1 align="center"><del>8 &nbsp; 0 &nbsp; 8 &nbsp; 5</del></H1>
-<H1 align="center""><img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /> k &nbsp; r &nbsp; . &nbsp; s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m <img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /></H1>
-<H1 align="center"><del>8 &nbsp; 0 &nbsp; 8 &nbsp; 3</del></H1>
+<H1 align="center""> s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m </H1>
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 1 &nbsp; 0 <img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /></H1>
+
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 1 &nbsp; 1 <img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /></H1>
+
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 1 &nbsp; 2 <img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /></H1>
+ 
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 1 &nbsp; 3 <img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /></H1>
 <H1 align="center">ENJOY!</H1>
 <H1 align="center">ONE MORE SONYAGENT COMING SOON!</H1>
 <H3 align="center" style="color: red;">經查，SonyAgent香港主埠俾不明單位狂打落地IP，現已將 /24 路由轉交 GSL 恒常洗流量，🇭🇰主埠時有攻擊，🇰🇷同🇯🇵埠新上线！全線直连飙速㊙️灣灣埠即將發佈</H3><br>
