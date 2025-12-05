@@ -15,16 +15,16 @@
 </p>
 <h1 align="center">
   <img height="540px" src="./assets/sonyAgentMap.png" alt="sony agent protocol is in progress..." title="sony agent protocol is in progress...">
-  <br>⬇️免費伺服器更新中...⬇️
+  <br>⬇️免費伺服器更新⬇️
 </h1>
 <H1 align="center""> s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m </H1>
-<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; x &nbsp; x <img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /></H1>
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 2 &nbsp; 0 <img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /></H1>
 
-<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; x &nbsp; x <img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /></H1>
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 2 &nbsp; 1 <img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /></H1>
 
-<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; x &nbsp; x <img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /></H1>
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 2 &nbsp; 2 <img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /></H1>
  
-<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; x &nbsp; x <img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /></H1>
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 2 &nbsp; 3 <img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /></H1>
 <H1 align="center">ENJOY!</H1>
 <H1 align="center">ONE MORE SONYAGENT COMING SOON!</H1>
 <H3 align="center" style="color: red;">爲保證解析速度現已停止追加sonyagent.com專屬域名<br><br>啓用全新專屬域名PSP4.ME㊙️『PSP for You』</H3><br>
