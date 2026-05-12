@@ -15,7 +15,7 @@
 </p>
 <h1 align="center">
   <img height="540px" src="./assets/sonyAgentMap.png" alt="sony agent protocol is in progress..." title="sony agent protocol is in progress...">
-  <br>⬇️免費伺服器更新中⬇️
+  <br>⬇️免費與專屬伺服器都正常，但連接存在阻礙，正再排查問題⬇️
 </h1>
 <H1 align="center""> s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m </H1>
 <H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 7 &nbsp; 0 <img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /></H1>
