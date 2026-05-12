@@ -15,7 +15,7 @@
 </p>
 <h1 align="center">
   <img height="540px" src="./assets/sonyAgentMap.png" alt="sony agent protocol is in progress..." title="sony agent protocol is in progress...">
-  <br>⚠️免費與專屬伺服器都正常，但連接存在阻礙，排查中⚠️
+  <br>⚠️經過5個鐘頭嘅搶修同伺服器遷移，目前已經全面恢復服務，對唔住各位！這是SonyAgent上線一年以來第二次歇菜這麼長時間，原因就不說了，感謝大力支持的朋友，我們會堅持運維到Portal2出來！⚠️
 </h1>
 <H1 align="center""> s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m </H1>
 <H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /> 8 &nbsp; 0 &nbsp; 7 &nbsp; 0 <img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /></H1>
